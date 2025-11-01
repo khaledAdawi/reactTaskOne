@@ -1,0 +1,37 @@
+.aboutSection {
+    background-color: #1abc9c;
+
+}
+
+.aboutTitle {
+    font-size: 2.5rem;
+    color: #fff;
+    letter-spacing: 1px;
+}
+
+.line {
+    width: 80px;
+    height: 4px;
+    background-color: #fff;
+    border-radius: 2px;
+}
+
+.starIcon {
+    color: #fff;
+    font-size: 1.3rem;
+}
+
+
+.downloadBtn {
+    color: #fff;
+    border: 2px solid #fff;
+    padding: 12px 25px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+.downloadBtn:hover {
+    background-color: #fff;
+    color: #1abc9c;
+}
