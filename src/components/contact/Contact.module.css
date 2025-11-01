@@ -1,0 +1,40 @@
+.contactSection {
+    background-color: #fff;
+}
+
+.contactTitle {
+    color: #2c3e50;
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+}
+
+.starIcon {
+    color: #2c3e50;
+    font-size: 1.3rem;
+}
+
+.formContainer {
+    max-width: 600px;
+}
+
+.label {
+    color: #2c3e50;
+    font-weight: 500;
+    display: block;
+    margin-bottom: 0.3rem;
+}
+
+
+.sendBtn {
+    background-color: #1abc9c;
+    color: #fff;
+    padding: 12px 30px;
+    border: none;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.sendBtn:hover {
+    background-color: #159a80;
+    color: #fff;
+}
